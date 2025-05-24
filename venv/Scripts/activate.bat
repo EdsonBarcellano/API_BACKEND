@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\USER\Downloads\EDSON BARCELLANO\API_BACKEND\venv
+set VIRTUAL_ENV=C:\Users\PUP-CITE-CAD06\Desktop\BARCELLANO_PART 2\API_BACKEND\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

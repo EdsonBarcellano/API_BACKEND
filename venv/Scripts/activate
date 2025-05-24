@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\USER\Downloads\EDSON BARCELLANO\API_BACKEND\venv"
+VIRTUAL_ENV="C:\Users\PUP-CITE-CAD06\Desktop\BARCELLANO_PART 2\API_BACKEND\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
